@@ -6,11 +6,9 @@ p{
   
 }
 
-.Potato{
+.Potato{ backround-color:black;
+  color: #39FF14;
+  border:6px #FF1493;
+  text-al
   
-}
-
-.description{
-  
-}
-  
+} 
