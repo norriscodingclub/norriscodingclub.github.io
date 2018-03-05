@@ -1,13 +1,13 @@
 body{ 
-  
+ background-color:purple;
 }
-
+color:white;
 p{
-  
+text-align:center;  
 }
-
+font-family:calibri;
 .colors{
-  
+border:10pxblack; 
 }
 
 .potato{
