@@ -1,1 +1,8 @@
-
+body{blue}
+paragraph{red}
+.echo{color.red;
+background-color.green;
+border.12px green}
+.delta{color.blue;
+border.12px yellow;
+background-color.green}
