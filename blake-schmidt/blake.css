@@ -1,5 +1,6 @@
 body{
-  
+  text-align:center;
+  backround-color:orange;
 }
 
 p{
@@ -7,8 +8,6 @@ p{
 }
 
 .Pheonix{
-  backround-color:orange;
   color:green;
   border:10px red;
-  text-align:center
 }
