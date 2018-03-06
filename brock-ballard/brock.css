@@ -1,5 +1,7 @@
 body{
-  
+  text-align: center;
+  backround-color:black;
+  color: #39FF14;
 }
 
 p{
@@ -7,8 +9,5 @@ p{
 }
 
 .Potato{
-  backround-color:black;
-  color: #39FF14;
   border:6px #FF1493;
-  text-align: center;
 } 
