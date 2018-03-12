@@ -3,7 +3,7 @@ body{
   backround-color:orange;
 }
 
-p{
+p{ text-align:center;
   
 }
 
@@ -17,3 +17,4 @@ img {
   border:10px red;
 }
 
+p{ font-weight:bold;
