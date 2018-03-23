@@ -1,3 +1,7 @@
+h1, p {
+  text-align: center;
+}
+
 body {
   background-color: #C5C8C9;
 }
@@ -13,5 +17,5 @@ li {
 .boxes {
   background-color: #919394;
   padding: 5%;
-  margin-bottom: 5%;
+  margin: 0 5% 5% 5%;
 }
