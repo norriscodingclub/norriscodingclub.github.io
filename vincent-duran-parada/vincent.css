@@ -1,9 +1,6 @@
-body { font-weight: bold;border: 5px solid yellow;text color:red;
-  }
-
-p {
- 
+body {
+  font-weight: bold;
+  border: 5px solid yellow;
+  color:red;
+  background-color:green;
 }
-
-
-  bacground color:greeen;
