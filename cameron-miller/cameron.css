@@ -1,9 +1,5 @@
 body {
-  background-color: pink;
-}
-
-p {
-  
+  background-color: #FF69B4;
 }
 
 img {
@@ -17,9 +13,4 @@ img {
 
 .Woop{
   color: black;
-}
-
-img {
-  width: 100px;
-  height: auto;
 }
