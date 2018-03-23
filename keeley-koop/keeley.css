@@ -2,5 +2,11 @@ body{
 }
 p{
 }
-.magiiiic{color:purple
+.magiiiic{
+  color:purple
+}
+
+img {
+  width: 500px;
+  height: auto;
 }
