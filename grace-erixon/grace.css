@@ -9,3 +9,9 @@ h2 {
 li {
   font-family: 'Raleway', sans-serif;
 }
+
+.boxes {
+  background-color: #919394;
+  padding: 5%;
+  margin-bottom: 5%;
+}
