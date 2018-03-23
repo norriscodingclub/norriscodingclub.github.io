@@ -2,6 +2,14 @@ h1, p {
   text-align: center;
 }
 
+h1 {
+  font-family: 'Pacifico', cursive;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+  
 body {
   background-color: #C5C8C9;
 }
