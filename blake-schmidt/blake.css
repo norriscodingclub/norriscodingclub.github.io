@@ -1,6 +1,6 @@
 body{
   text-align:center;
-  backround-color:orange;
+  backround-color:#FFA500e;
 }
 
 p{ text-align:center;
@@ -14,7 +14,7 @@ img {
 
 .Pheonix{
   color:green;
-  border:10px red;
+  border:10px #FF0000;
 }
 
 p{ font-weight:bold;
