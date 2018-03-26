@@ -24,7 +24,8 @@ li {
 }
 
 .boxes {
-  background-color: #919394;
+  /**background-color: #919394;**/
+  background-color: #d3d3d3;
   padding: 5%;
   margin: 0 5% 5% 5%;
 }
