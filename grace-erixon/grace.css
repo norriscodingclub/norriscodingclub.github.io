@@ -1,13 +1,12 @@
-h1, p {
-  text-align: center;
-}
 
 h1 {
   font-family: 'Pacifico', cursive;
+  text-align: center;
 }
 
 p {
   font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
   
 body {
